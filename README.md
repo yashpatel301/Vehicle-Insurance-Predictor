@@ -29,4 +29,4 @@ After getting the values of confusion matrix we also plotted ROC curve from True
           10. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47 <br />
 
 # 4)Contact Us:
-If you are having any quaries regarding this project then feel free to drop an email on **yash.p4@ahduni.edu.in** or  **priyank.h@ahduni.edu.in** or **samarth.s@ahduni.edu.in** or **shaili.g@ahduni.edu.in**.
+If you are having any queries regarding this project then feel free to drop an email on **yash.p4@ahduni.edu.in** or  **priyank.h@ahduni.edu.in** or **samarth.s@ahduni.edu.in** or **shaili.g@ahduni.edu.in**.

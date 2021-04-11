@@ -9,24 +9,24 @@ This would help the insurance company in optimizing its business model and reven
 # 2)Results:
 To predict whether the customer will be interested in buying vehicle insurance or not, we need to use classifier to
 train the data. We tried three models for this:
- Markup: 1. Logistic Regression using Scikit Learn
-         2. Logistic Regression from scratch
-         3. Support Vector Machine using Scikit Learn
+<\br>1. Logistic Regression using Scikit Learn<\br>
+         2. Logistic Regression from scratch<\br>
+         3. Support Vector Machine using Scikit Learn<\br>
 After getting the values of confusion matrix we also plotted ROC curve from True Positive Rate and False Positive Rate
 ![LR_ROC](https://user-images.githubusercontent.com/47913479/114299305-23d97780-9ad8-11eb-8d08-77d6fcfee73e.png)
 ![SVM_ROC](https://user-images.githubusercontent.com/47913479/114299299-20de8700-9ad8-11eb-8472-6d47a58625df.png)
 
 # 3)References:
- Markup : 1. Wang, Hui Dong. "Research on the Features of Car Insurance Data Based on Machine Learning." Procedia Computer Science 166 (2020): 582-587.
-          2. Grize, Yves‐Laurent, Wolfram Fischer, and Christian Lützelschwab. "Machine learning applications in nonlife insurance." Applied Stochastic Models in Business and Industry 36.4 (2020): 523-537.
-          3. Mane, Sandeep and Srivastava, Jaideep and Hwang, San-Yin and Vayghan, Jamshid,2004 12,475- 478,Estimation of false negatives in classification, 0-7695-2142-8, 10.1109/ICDM.2004.10048.
-          4. https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
-          5. https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a
-          6. https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/
-          7. https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7
-          8. https://towardsdatascience.com/how-to-tackle-any-classification-problem-end-to-end-choose-the-right-classification-ml-algorithm-4d0becc6a295
-          9. https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
-          10. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+<\br>1. Wang, Hui Dong. "Research on the Features of Car Insurance Data Based on Machine Learning." Procedia Computer Science 166 (2020): 582-587.<\br>
+          2. Grize, Yves‐Laurent, Wolfram Fischer, and Christian Lützelschwab. "Machine learning applications in nonlife insurance." Applied Stochastic Models in Business and Industry 36.4 (2020): 523-537.<\br>
+          3. Mane, Sandeep and Srivastava, Jaideep and Hwang, San-Yin and Vayghan, Jamshid,2004 12,475- 478,Estimation of false negatives in classification, 0-7695-2142-8, 10.1109/ICDM.2004.10048.<\br>
+          4. https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/ <\br>
+          5. https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a <\br>
+          6. https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/ <\br>
+          7. https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7 <\br>
+          8. https://towardsdatascience.com/how-to-tackle-any-classification-problem-end-to-end-choose-the-right-classification-ml-algorithm-4d0becc6a295 <\br>
+          9. https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc <\br>
+          10. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47 <\br>
 
 # 4)Contact Us:
 If you are having any quaries regarding this project then feel free to drop an email on **yash.p4@ahduni.edu.in** or  **priyank.h@ahduni.edu.in** or **samarth.s@ahduni.edu.in** **shaili.g@ahduni.edu.in**.

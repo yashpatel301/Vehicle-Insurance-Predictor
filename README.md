@@ -17,7 +17,7 @@ After getting the values of confusion matrix we also plotted ROC curve from True
 ![SVM_ROC](https://user-images.githubusercontent.com/47913479/114299299-20de8700-9ad8-11eb-8472-6d47a58625df.png)
 
 # 3)References:
-<\br>1. Wang, Hui Dong. "Research on the Features of Car Insurance Data Based on Machine Learning." Procedia Computer Science 166 (2020): 582-587.<br />
+1. Wang, Hui Dong. "Research on the Features of Car Insurance Data Based on Machine Learning." Procedia Computer Science 166 (2020): 582-587.<br />
           2. Grize, Yves‐Laurent, Wolfram Fischer, and Christian Lützelschwab. "Machine learning applications in nonlife insurance." Applied Stochastic Models in Business and Industry 36.4 (2020): 523-537.<br />
           3. Mane, Sandeep and Srivastava, Jaideep and Hwang, San-Yin and Vayghan, Jamshid,2004 12,475- 478,Estimation of false negatives in classification, 0-7695-2142-8, 10.1109/ICDM.2004.10048.<br />
           4. https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/ <br />

@@ -1,17 +1,17 @@
 # Vehicle-Insurance-Predictor
 # 1) Introduction
 An insurance policy is an arrangement in which the company agrees to provide a compensation in case of specified damage, in return for payment of a specified premium amount. Since, a lot of people pay the premium, but only a few of them face vehicle accidents and damage, and get the compensation, everyone shares the risk of everyone else. So, the insurance business is based on the existence of risks and the desire to avoid them. Thus, the data based quantification of risk and uncertainty plays a crucial role in this field, and this is how machine learning comes into the picture. So, we are aiming to build a model that would predict whether a customer would be interested in buying the insurance based on the information like:
- Demographics: Gender, Age, Vehicle code
- Vehicle: Vehicle Age, Damage
- Policy: Premium
+ Markup: 1. Demographics: Gender, Age, Vehicle code
+         2. Vehicle: Vehicle Age, Damage
+         3. Policy: Premium
 This would help the insurance company in optimizing its business model and revenue.
 
 # 2)Results:
 To predict whether the customer will be interested in buying vehicle insurance or not, we need to use classifier to
 train the data. We tried three models for this:
- Logistic Regression using Scikit Learn
- Logistic Regression from scratch
- Support Vector Machine using Scikit Learn
+ Markup: 1. Logistic Regression using Scikit Learn
+         2. Logistic Regression from scratch
+         3. Support Vector Machine using Scikit Learn
 After getting the values of confusion matrix we also plotted ROC curve from True Positive Rate and False Positive Rate
 ![LR_ROC](https://user-images.githubusercontent.com/47913479/114299305-23d97780-9ad8-11eb-8d08-77d6fcfee73e.png)
 ![SVM_ROC](https://user-images.githubusercontent.com/47913479/114299299-20de8700-9ad8-11eb-8472-6d47a58625df.png)
